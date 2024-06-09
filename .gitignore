@@ -1,0 +1,5 @@
+bin
+obj
+src/kernel/obj
+src/kernel/nul
+distrib/dosdisc.img

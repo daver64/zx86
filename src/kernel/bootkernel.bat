@@ -1,0 +1,1 @@
+qemu-system-x86_64 -smp 2  -m 1024  -kernel ..\..\bin\zx86.bin -hda ..\..\distrib\dosdisc.img   > nul 2>&1

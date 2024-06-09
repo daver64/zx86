@@ -1,0 +1,1 @@
+qemu-system-x86_64 -net nic,model=rtl8139 -m 256 -kernel ..\bin\kernel.bin -device piix3-ide,id=ide -drive id=disk,file=..\distrib\dosdisc.img,format=raw,if=none -device ide-hd,drive=disk,bus=ide.0  > nul 2>&1
