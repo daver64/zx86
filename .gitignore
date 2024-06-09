@@ -2,4 +2,6 @@ bin
 obj
 src/kernel/obj
 src/kernel/nul
-distrib/dosdisc.img
+src/tools/imgtools/*.exe
+src/tools/imgtools/*.img
+src/tools/imgtools/*.o
