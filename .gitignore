@@ -5,3 +5,4 @@ src/kernel/nul
 src/tools/imgtools/*.exe
 src/tools/imgtools/*.img
 src/tools/imgtools/*.o
+src/distrib/*
